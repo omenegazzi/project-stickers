@@ -1,18 +1,22 @@
-## Projeto API Filmes
+## Projeto Imersão Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Imersão Java Alura
 
-## Folder Structure
+## Aula 1
 
-The workspace contains two folders by default, where:
+Consumindo uma API de filmes com Java  
+## Aula 2
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Gerando figurinhas para WhatsApp
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Aula 3
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Ligando as pontas refaturação e orientação a objetos
 
-## Dependency Management
+## Aula 4
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Criando nossa própria API com Spring
+
+## Aula 5
+
+Publicando nossa API no Cloud  
