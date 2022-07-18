@@ -6,13 +6,13 @@ import java.net.http.HttpResponse.BodyHandlers;
 import java.util.List;
 import java.util.Map;
 
-import util.keys;
+
 
 public class App {
     public static void main(String[] args) throws Exception {
         //Fazer uma conexão HTTP e buscar os top 250 filmes
         var keys = new keys();
-            
+
         URI endereco = URI.create(keys.key());
 
         var client = HttpClient.newHttpClient();
